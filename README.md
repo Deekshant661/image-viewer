@@ -50,6 +50,6 @@ code .
 ```
 
 ### 2. Add an Image to Load
-'''rust
+```rust
 let mut img = image::open("path/to/your/image.jpg")?;
 ```
