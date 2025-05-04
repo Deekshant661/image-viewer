@@ -53,3 +53,19 @@ code .
 ```rust
 let mut img = image::open("path/to/your/image.jpg")?;
 ```
+
+### 3. Run the application
+```bash
+cargo run
+```
+
+---
+
+### Controls 
+Key     Function
+R       Rotate clockwise  
+L       Rotate counter-clockwise  
+S       Save current rotated image  
+Q       Quit the viewer  
+
+---
