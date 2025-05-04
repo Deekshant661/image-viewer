@@ -4,9 +4,20 @@
 
 A lightweight desktop image viewer built in Rust. Rotate, save, and view images with simple keyboard shortcuts using the `minifb` and `image` crates.
 
-![image-viewer-demo](https://github.com/your-username/image-viewer/assets/demo-screenshot.png)
+![Screenshot 2025-05-04 222607](https://github.com/user-attachments/assets/7984ef59-5364-4bc2-bfc8-6fd869ff9e96)
+#Original Image
+
+![Screenshot 2025-05-04 222618](https://github.com/user-attachments/assets/ee6dc017-d351-4473-a23b-4b524cbcc20c)
+#Rotate Right
+
+![Screenshot 2025-05-04 222640](https://github.com/user-attachments/assets/015ca4fd-6779-4595-91b6-6de428a4ac56)
+#Rotate Left
+
+![Screenshot 2025-05-04 222716](https://github.com/user-attachments/assets/aee9841c-5d5f-4463-806d-660bdbef6fde)
+#Save
 
 ---
+
 
 ## 🛠️ Tech Stack
 
