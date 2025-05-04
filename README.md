@@ -1,2 +1,2 @@
-# image-viewer
-Rust based Simple Image-Viewer
+# Rust based Simple Image-Viewer
+
