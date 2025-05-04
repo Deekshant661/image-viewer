@@ -47,3 +47,9 @@ Save
 git clone https://github.com/Deekshant661/rust-image-viewer.git
 cd rust-image-viewer
 code .
+```
+
+### 2. Add an Image to Load
+'''rust
+let mut img = image::open("path/to/your/image.jpg")?;
+```
